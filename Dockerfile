@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM python:3.14-slim
 
 LABEL maintainer="@jay_townsend1 & @NotoriousRebel1"
 
